@@ -7,7 +7,7 @@ using TShockAPI;
 
 namespace OnStartup
 {
-	[ApiVersion(1, 20)]
+	[ApiVersion(1, 21)]
     public class Plugin : TerrariaPlugin
 	{
 		private Config _config = new Config();
